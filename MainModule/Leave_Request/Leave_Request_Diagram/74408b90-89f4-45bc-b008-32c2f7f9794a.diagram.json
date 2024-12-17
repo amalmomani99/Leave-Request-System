@@ -1,0 +1,28 @@
+{
+  "_DataSourceProviderType": null,
+  "Code": "Leave_Request_Diagram",
+  "OrmDirection": 1,
+  "TypeId": 3,
+  "Description": null,
+  "DiagramNodePositions": [],
+  "Relations": [],
+  "Comments": [],
+  "Version": 0,
+  "CreatedBy": 40,
+  "CreationDate": "2024-12-17T10:42:03.422035Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {
+    "isSystemDiagram": false,
+    "isMaestroFirst": true,
+    "dataSourceId": "8645696b-46e8-4556-8554-b2279a670c19"
+  },
+  "Id": "74408b90-89f4-45bc-b008-32c2f7f9794a",
+  "Name": "Leave_Request_Diagram",
+  "Entities": [],
+  "DataSourceId": "8645696b-46e8-4556-8554-b2279a670c19",
+  "DataSourceProviderType": null,
+  "DomainSourceBindings": null
+}
