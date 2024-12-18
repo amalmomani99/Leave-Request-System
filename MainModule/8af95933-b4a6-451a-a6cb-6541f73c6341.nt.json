@@ -1,0 +1,25 @@
+{
+  "Title": "Hi",
+  "NotificationTypeId": 0,
+  "IsPublished": true,
+  "TemplateContents": [
+    {
+      "LanguageId": 1,
+      "TemplateId": "00000000-0000-0000-0000-000000000000",
+      "Body": "<p>Hi ##Name##</p>",
+      "Id": "6651a3be-0fe1-4880-b838-0931f9eb984e",
+      "Code": null,
+      "MaestroBlocksEntityState": 0
+    }
+  ],
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:48:03.4190926Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2024-12-18T11:49:24.6480678Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "8af95933-b4a6-451a-a6cb-6541f73c6341",
+  "Code": "",
+  "Name": "Notifications1"
+}

@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^[A-Za-zÀ-ÖØ-öø-ÿ' -]{1,100}$"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:57:21.655677Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2024-12-18T11:59:05.5474005Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "9098853f-3240-48a5-9444-7b0a322be090",
+  "Code": null,
+  "Name": "Name"
+}

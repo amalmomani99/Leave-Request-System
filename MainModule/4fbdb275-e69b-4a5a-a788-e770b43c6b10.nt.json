@@ -1,0 +1,25 @@
+{
+  "Title": "Approve Request",
+  "NotificationTypeId": 0,
+  "IsPublished": true,
+  "TemplateContents": [
+    {
+      "LanguageId": 1,
+      "TemplateId": "00000000-0000-0000-0000-000000000000",
+      "Body": "<p>Dear Requester, </p><p>Hope this email finds you well.</p><p><br></p><p>The event coordinator has approved your request. </p><p><br></p><p>Regard,</p><p><br></p>",
+      "Id": "2f7d667b-3097-4100-aba8-8652e60818e1",
+      "Code": null,
+      "MaestroBlocksEntityState": 0
+    }
+  ],
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T10:56:36.5981137Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2024-12-18T11:25:30.5552172Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "4fbdb275-e69b-4a5a-a788-e770b43c6b10",
+  "Code": "",
+  "Name": "Approved_Request_By_Event_Coordinator"
+}

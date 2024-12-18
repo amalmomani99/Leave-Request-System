@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$\r\n"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:55:19.3673561Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2024-12-18T11:57:08.6047508Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "fcf22ed1-f0e0-4003-a76f-1de21fa32f9c",
+  "Code": null,
+  "Name": "Email"
+}

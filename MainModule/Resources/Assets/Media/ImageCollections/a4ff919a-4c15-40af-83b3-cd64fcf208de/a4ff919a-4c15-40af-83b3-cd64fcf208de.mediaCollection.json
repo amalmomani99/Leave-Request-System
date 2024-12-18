@@ -1,0 +1,21 @@
+{
+  "Sequence": null,
+  "Name": "test1",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "fcd1bd11-16c7-46c4-8302-9a6b898e7813",
+      "Name": "ChatBot.png",
+      "File": null
+    }
+  ],
+  "CreatedBy": "40",
+  "CreationDate": "2024-12-17T11:51:24.3124835Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "a4ff919a-4c15-40af-83b3-cd64fcf208de",
+  "MaestroBlocksEntityState": 0
+}
